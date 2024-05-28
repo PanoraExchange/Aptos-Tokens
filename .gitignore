@@ -1,0 +1,6 @@
+*.sh
+.idea
+.aptos
+dist
+node_modules
+.rollup.cache

@@ -1,0 +1,20 @@
+{
+  "name": "@panoraexchange/token-list",
+  "version": "0.0.1",
+  "type": "module",
+  "private": false,
+  "description": "Token list for Panora Exchange",
+  "main": "dist/cjs/index.js",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Kunal",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
