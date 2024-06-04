@@ -1613,5 +1613,39 @@
     "panoraOrderIndex": 100000,
     "coingeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0xbc106d0fef7e5ce159423a1a9312e011bca7fb57f961146a2f88003a779b25c2::QUEST::QUEST",
+    "name": "▪ AptosQuest.io 🔸 NEW",
+    "symbol": "COINS",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "COINS",
+    "logoUrl": null,
+    "websiteUrl": null,
+    "category": "Native",
+    "isInPanoraTokenList": false,
+    "isBanned": true,
+    "panoraOrderIndex": 100000,
+    "coingeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "name": "Donk",
+    "symbol": "DONK",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "DONK",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/DONK.png",
+    "websiteUrl": null,
+    "category": "Meme",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 93,
+    "coingeckoId": null,
+    "coinMarketCapId": null
   }
 ]
