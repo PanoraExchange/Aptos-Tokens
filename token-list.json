@@ -285,7 +285,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 85,
-    "coingeckoId": null,
+    "coingeckoId": "movegpt",
     "coinMarketCapId": null
   },
   {
@@ -535,7 +535,7 @@
     "bridge": null,
     "panoraSymbol": "RENA",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/RENA.png",
-    "websiteUrl": "https://www.renegades.build/",
+    "websiteUrl": "https://www.renegades.build",
     "category": "Native",
     "isInPanoraTokenList": true,
     "isBanned": false,
@@ -1645,6 +1645,40 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 93,
+    "coingeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "PEPE",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/PEPE.png",
+    "websiteUrl": "https://pepe.as",
+    "category": "Meme",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 114,
+    "coingeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x7de3fea83cd5ca0e1def27c3f3803af619882db51f34abf30dd04ad12ee6af31::tapos::Heart",
+    "name": "Heart",
+    "symbol": "HEART",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "HEART",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/HEART.png",
+    "websiteUrl": "https://tapos.xyz",
+    "category": "Native",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 161,
     "coingeckoId": null,
     "coinMarketCapId": null
   }
