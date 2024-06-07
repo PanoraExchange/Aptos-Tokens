@@ -1681,5 +1681,22 @@
     "panoraOrderIndex": 161,
     "coingeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x42d77150661adcc068603bde2453bea1e22fa7ca08878ec88b7e077709c01171::oft::WUSDMOFT",
+    "name": "Wrap USDM",
+    "symbol": "wUSDM",
+    "decimals": 8,
+    "bridge": "LayerZero",
+    "panoraSymbol": "wUSDM",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/wUSDM.png",
+    "websiteUrl": "https://mountainprotocol.com/",
+    "category": "Bridged",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 20,
+    "coingeckoId": "wrapped-usdm",
+    "coinMarketCapId": null
   }
 ]
