@@ -1653,7 +1653,7 @@
     "tokenAddress": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
     "name": "Pepe",
     "symbol": "PEPE",
-    "decimals": 8,
+    "decimals": 6,
     "bridge": null,
     "panoraSymbol": "PEPE",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/PEPE.png",
@@ -1696,7 +1696,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 24,
-    "coingeckoId": "mountain-protocol-usdm",
-    "coinMarketCapId": 29569
+    "coingeckoId": null,
+    "coinMarketCapId": null
   }
 ]
