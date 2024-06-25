@@ -426,6 +426,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": "0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca::bubbles::BubblesCoin",
+    "name": "BUBBLES",
+    "symbol": "BUBBLES",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "BUBBLES",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/BUBBLES.jpg",
+    "websiteUrl": null,
+    "category": "Meme",
+    "isInPanoraTokenList": false,
+    "isBanned": false,
+    "panoraOrderIndex": 107,
+    "coingeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
     "name": "MARBLEX",
     "symbol": "MBX",
