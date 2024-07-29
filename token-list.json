@@ -35,6 +35,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+    "name": "Liquidswap",
+    "symbol": "LSD",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "LSD",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/LSD.png",
+    "websiteUrl": null,
+    "category": "Native",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 13,
+    "coingeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -678,6 +695,23 @@
     "panoraOrderIndex": 165,
     "coingeckoId": "doglaikacoin",
     "coinMarketCapId": 23200
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x4d981c48d254c4cea6110090ad1c2890d5ea35d49cbed28e76c0d3bb90ddf873::crab_coin::CrabCoin",
+    "name": "Crab Coin",
+    "symbol": "CRAB",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "CRAB",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/CRAB.svg",
+    "websiteUrl": "https://www.aptosshaker.xyz",
+    "category": "Native",
+    "isInPanoraTokenList": false,
+    "isBanned": false,
+    "panoraOrderIndex": 168,
+    "coingeckoId": null,
+    "coinMarketCapId": null
   },
   {
     "chainId": 1,
