@@ -57,7 +57,7 @@ Example:
   {
     "chainId": 1,
     "tokenAddress": "0x1::aptos_coin::AptosCoin",
-    "faddress": "0xa",
+    "faAddress": "0xa",
     "name": "Aptos Coin",
     "symbol": "APT",
     "decimals": 8,
