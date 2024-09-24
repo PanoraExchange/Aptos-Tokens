@@ -41,7 +41,8 @@ Provide the following details:
 ### `SubmitTokenRequestInfo`
 
 - `chainId`: The chain ID to which the token belongs (default is 1 for Aptos Mainnet)
-- `tokenAddress`: The complete address used to identify the token as per the Aptos core framework
+- `tokenAddress`: The complete address used to identify the token as per the Aptos Coin Standard (Legacy)
+- `faAddress`: The complete address used to identify the token as per the Aptos Fungible Asset (FA) Standard
 - `name`: The name of the token
 - `symbol`: The symbol registered by the token minter on-chain
 - `decimals`: The number of decimal places for the token
@@ -56,6 +57,7 @@ Example:
   {
     "chainId": 1,
     "tokenAddress": "0x1::aptos_coin::AptosCoin",
+    "faddress": "0xa",
     "name": "Aptos Coin",
     "symbol": "APT",
     "decimals": 8,
@@ -88,7 +90,8 @@ It is highly recommended to engage in discussions when new projects seek validat
 Aptos Token List Response object consists of the following fields:
 
 - `chainId`: The chain ID to which the token belongs. (Note: The default chain ID is 1 for Aptos Mainnet)
-- `tokenAddress`: The complete address used for identifying the token as per Aptos core framework
+- `tokenAddress`: The complete address used to identify the token as per the Aptos Coin Standard (Legacy)
+- `faAddress`: The complete address used to identify the token as per the Aptos Fungible Asset (FA) Standard
 - `name`: The name of the token
 - `symbol`: The symbol registered by the token minter on-chain
 - `decimals`: The number of decimal places for the token
@@ -109,6 +112,7 @@ Example:
   {
     "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "faAddress": "0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,

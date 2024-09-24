@@ -1,3 +1,3 @@
-import { RequestTokenInfo } from "types"
+import { SubmitTokenRequestInfo } from "types"
 
-const requestList: RequestTokenInfo[] = []
+const requestList: SubmitTokenRequestInfo[] = []

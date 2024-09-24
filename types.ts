@@ -1,6 +1,7 @@
 export type SubmitTokenRequestInfo = {
   chainId: number
-  tokenAddress: `0x${string}`
+  tokenAddress: `0x${string}` | null
+  faAddress: `0x${string}` | null
   name: string
   symbol: string
   decimals: number
@@ -12,7 +13,8 @@ export type SubmitTokenRequestInfo = {
 
 export type TokenInfo = {
   chainId: number
-  tokenAddress: `0x${string}`
+  tokenAddress: `0x${string}` | null
+  faAddress: `0x${string}` | null
   name: string
   symbol: string
   decimals: number
