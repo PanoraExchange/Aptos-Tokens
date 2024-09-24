@@ -14,7 +14,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 1,
-    "coingeckoId": "aptos",
+    "coinGeckoId": "aptos",
     "coinMarketCapId": 21794
   },
   {
@@ -32,7 +32,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 10,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -50,7 +50,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 15,
-    "coingeckoId": "merkle-trade",
+    "coinGeckoId": "merkle-trade",
     "coinMarketCapId": 32997
   },
   {
@@ -68,7 +68,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 20,
-    "coingeckoId": "pontem-liquidswap",
+    "coinGeckoId": "pontem-liquidswap",
     "coinMarketCapId": 22262
   },
   {
@@ -86,7 +86,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 25,
-    "coingeckoId": "tether",
+    "coinGeckoId": "tether",
     "coinMarketCapId": 825
   },
   {
@@ -104,7 +104,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 30,
-    "coingeckoId": "ethereum",
+    "coinGeckoId": "ethereum",
     "coinMarketCapId": 1027
   },
   {
@@ -122,7 +122,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 35,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -140,7 +140,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 40,
-    "coingeckoId": "thala",
+    "coinGeckoId": "thala",
     "coinMarketCapId": 24268
   },
   {
@@ -158,7 +158,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 45,
-    "coingeckoId": "cellena-finance",
+    "coinGeckoId": "cellena-finance",
     "coinMarketCapId": null
   },
   {
@@ -176,7 +176,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 50,
-    "coingeckoId": "ondo-us-dollar-yield",
+    "coinGeckoId": "ondo-us-dollar-yield",
     "coinMarketCapId": 29256
   },
   {
@@ -194,7 +194,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 55,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -212,7 +212,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 60,
-    "coingeckoId": "gui-inu",
+    "coinGeckoId": "gui-inu",
     "coinMarketCapId": 28851
   },
   {
@@ -230,7 +230,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 65,
-    "coingeckoId": "amnis-aptos",
+    "coinGeckoId": "amnis-aptos",
     "coinMarketCapId": 29034
   },
   {
@@ -248,7 +248,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 70,
-    "coingeckoId": "thala-apt",
+    "coinGeckoId": "thala-apt",
     "coinMarketCapId": null
   },
   {
@@ -266,7 +266,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 75,
-    "coingeckoId": "amnis-staked-aptos-coin",
+    "coinGeckoId": "amnis-staked-aptos-coin",
     "coinMarketCapId": null
   },
   {
@@ -284,7 +284,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 80,
-    "coingeckoId": "staked-thala-apt",
+    "coinGeckoId": "staked-thala-apt",
     "coinMarketCapId": null
   },
   {
@@ -302,7 +302,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 85,
-    "coingeckoId": "move-dollar",
+    "coinGeckoId": "move-dollar",
     "coinMarketCapId": null
   },
   {
@@ -320,7 +320,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 90,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -338,7 +338,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 95,
-    "coingeckoId": "doodoo",
+    "coinGeckoId": "doodoo",
     "coinMarketCapId": 28881
   },
   {
@@ -356,7 +356,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 100,
-    "coingeckoId": "uptos",
+    "coinGeckoId": "uptos",
     "coinMarketCapId": 30366
   },
   {
@@ -374,7 +374,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 105,
-    "coingeckoId": "movegpt",
+    "coinGeckoId": "movegpt",
     "coinMarketCapId": null
   },
   {
@@ -392,7 +392,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 110,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -410,7 +410,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 115,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -428,7 +428,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 120,
-    "coingeckoId": "pancakeswap-token",
+    "coinGeckoId": "pancakeswap-token",
     "coinMarketCapId": 7186
   },
   {
@@ -446,7 +446,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 125,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -464,7 +464,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 130,
-    "coingeckoId": "propbase",
+    "coinGeckoId": "propbase",
     "coinMarketCapId": 28385
   },
   {
@@ -482,7 +482,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 135,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -500,7 +500,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 140,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -518,7 +518,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 145,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -536,7 +536,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 150,
-    "coingeckoId": "marblex",
+    "coinGeckoId": "marblex",
     "coinMarketCapId": 18895
   },
   {
@@ -554,7 +554,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 155,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -572,7 +572,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 160,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 30840
   },
   {
@@ -590,7 +590,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 165,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -608,7 +608,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 170,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -626,7 +626,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 175,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -644,7 +644,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 180,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -662,7 +662,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 185,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -680,7 +680,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 190,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -698,7 +698,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 195,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -716,7 +716,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 200,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -734,7 +734,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 205,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -752,7 +752,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 210,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -770,7 +770,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 215,
-    "coingeckoId": "doglaikacoin",
+    "coinGeckoId": "doglaikacoin",
     "coinMarketCapId": 23200
   },
   {
@@ -788,7 +788,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 220,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -806,7 +806,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 225,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -824,7 +824,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 230,
-    "coingeckoId": "bitcoin",
+    "coinGeckoId": "bitcoin",
     "coinMarketCapId": 1
   },
   {
@@ -842,7 +842,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 235,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 22383
   },
   {
@@ -860,7 +860,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 240,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -878,7 +878,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 245,
-    "coingeckoId": "bluemove",
+    "coinGeckoId": "bluemove",
     "coinMarketCapId": 23359
   },
   {
@@ -896,7 +896,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 250,
-    "coingeckoId": "mojito",
+    "coinGeckoId": "mojito",
     "coinMarketCapId": 22399
   },
   {
@@ -914,7 +914,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 255,
-    "coingeckoId": "aptos-launch-token",
+    "coinGeckoId": "aptos-launch-token",
     "coinMarketCapId": 22065
   },
   {
@@ -932,7 +932,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 260,
-    "coingeckoId": "abel-finance",
+    "coinGeckoId": "abel-finance",
     "coinMarketCapId": 22959
   },
   {
@@ -950,7 +950,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 265,
-    "coingeckoId": "ditto-staked-aptos",
+    "coinGeckoId": "ditto-staked-aptos",
     "coinMarketCapId": 22290
   },
   {
@@ -968,7 +968,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 270,
-    "coingeckoId": "tether",
+    "coinGeckoId": "tether",
     "coinMarketCapId": 825
   },
   {
@@ -986,7 +986,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 275,
-    "coingeckoId": "tortuga-staked-aptos",
+    "coinGeckoId": "tortuga-staked-aptos",
     "coinMarketCapId": 22412
   },
   {
@@ -1004,7 +1004,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 280,
-    "coingeckoId": "tether",
+    "coinGeckoId": "tether",
     "coinMarketCapId": 825
   },
   {
@@ -1022,7 +1022,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 285,
-    "coingeckoId": "blocto-token",
+    "coinGeckoId": "blocto-token",
     "coinMarketCapId": null
   },
   {
@@ -1040,7 +1040,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 290,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 22705
   },
   {
@@ -1058,7 +1058,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 295,
-    "coingeckoId": "war-coin",
+    "coinGeckoId": "war-coin",
     "coinMarketCapId": null
   },
   {
@@ -1076,7 +1076,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 300,
-    "coingeckoId": "animeswap",
+    "coinGeckoId": "animeswap",
     "coinMarketCapId": 22650
   },
   {
@@ -1094,7 +1094,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 305,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1112,7 +1112,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 310,
-    "coingeckoId": "mover-xyz",
+    "coinGeckoId": "mover-xyz",
     "coinMarketCapId": 23767
   },
   {
@@ -1130,7 +1130,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 315,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1148,7 +1148,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 320,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1166,7 +1166,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 325,
-    "coingeckoId": "usdd",
+    "coinGeckoId": "usdd",
     "coinMarketCapId": null
   },
   {
@@ -1184,7 +1184,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 330,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1202,7 +1202,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 335,
-    "coingeckoId": "bitcoin",
+    "coinGeckoId": "bitcoin",
     "coinMarketCapId": 1
   },
   {
@@ -1220,7 +1220,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 340,
-    "coingeckoId": "bitcoin",
+    "coinGeckoId": "bitcoin",
     "coinMarketCapId": 1
   },
   {
@@ -1238,7 +1238,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 345,
-    "coingeckoId": "ethereum",
+    "coinGeckoId": "ethereum",
     "coinMarketCapId": 1027
   },
   {
@@ -1256,7 +1256,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 350,
-    "coingeckoId": "ethereum",
+    "coinGeckoId": "ethereum",
     "coinMarketCapId": 1027
   },
   {
@@ -1274,7 +1274,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 355,
-    "coingeckoId": "dai",
+    "coinGeckoId": "dai",
     "coinMarketCapId": 4943
   },
   {
@@ -1292,7 +1292,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 360,
-    "coingeckoId": "binancecoin",
+    "coinGeckoId": "binancecoin",
     "coinMarketCapId": 1839
   },
   {
@@ -1310,7 +1310,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 365,
-    "coingeckoId": "binancecoin",
+    "coinGeckoId": "binancecoin",
     "coinMarketCapId": 1839
   },
   {
@@ -1328,7 +1328,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 370,
-    "coingeckoId": "solana",
+    "coinGeckoId": "solana",
     "coinMarketCapId": 5426
   },
   {
@@ -1346,7 +1346,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 375,
-    "coingeckoId": "gari-network",
+    "coinGeckoId": "gari-network",
     "coinMarketCapId": 12969
   },
   {
@@ -1364,7 +1364,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 380,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1382,7 +1382,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 385,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1400,7 +1400,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 390,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1418,7 +1418,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 395,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 29921
   },
   {
@@ -1436,7 +1436,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 400,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1454,7 +1454,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 405,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 23226
   },
   {
@@ -1472,7 +1472,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 410,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1490,7 +1490,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 415,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1508,7 +1508,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 420,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1526,7 +1526,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 425,
-    "coingeckoId": "aptopad",
+    "coinGeckoId": "aptopad",
     "coinMarketCapId": 24733
   },
   {
@@ -1544,7 +1544,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 430,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1562,7 +1562,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 435,
-    "coingeckoId": "legendary-meme",
+    "coinGeckoId": "legendary-meme",
     "coinMarketCapId": null
   },
   {
@@ -1580,7 +1580,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 440,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1598,7 +1598,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 445,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1616,7 +1616,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 450,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1634,7 +1634,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 455,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1652,7 +1652,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 460,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1670,7 +1670,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 465,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1688,7 +1688,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 470,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1706,7 +1706,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 475,
-    "coingeckoId": "usd-coin",
+    "coinGeckoId": "usd-coin",
     "coinMarketCapId": 3408
   },
   {
@@ -1724,7 +1724,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 480,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": 29921
   },
   {
@@ -1742,7 +1742,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 485,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1760,7 +1760,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 490,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1778,7 +1778,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 495,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1796,7 +1796,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 10000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1814,7 +1814,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 10000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1832,7 +1832,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1850,7 +1850,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "binance-usd",
+    "coinGeckoId": "binance-usd",
     "coinMarketCapId": null
   },
   {
@@ -1868,7 +1868,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1886,7 +1886,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "wtbt",
+    "coinGeckoId": "wtbt",
     "coinMarketCapId": null
   },
   {
@@ -1904,7 +1904,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "binance-usd",
+    "coinGeckoId": "binance-usd",
     "coinMarketCapId": null
   },
   {
@@ -1922,7 +1922,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1940,7 +1940,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1958,7 +1958,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1976,7 +1976,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -1994,7 +1994,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "spring",
+    "coinGeckoId": "spring",
     "coinMarketCapId": null
   },
   {
@@ -2012,7 +2012,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2030,7 +2030,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "ditto-discount-token",
+    "coinGeckoId": "ditto-discount-token",
     "coinMarketCapId": null
   },
   {
@@ -2048,7 +2048,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2066,7 +2066,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "dai",
+    "coinGeckoId": "dai",
     "coinMarketCapId": null
   },
   {
@@ -2084,7 +2084,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "tether",
+    "coinGeckoId": "tether",
     "coinMarketCapId": 825
   },
   {
@@ -2102,7 +2102,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "avalanche-2",
+    "coinGeckoId": "avalanche-2",
     "coinMarketCapId": 5805
   },
   {
@@ -2120,7 +2120,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2138,7 +2138,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2156,7 +2156,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2174,7 +2174,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2192,7 +2192,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2210,7 +2210,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2228,7 +2228,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "sweatcoin",
+    "coinGeckoId": "sweatcoin",
     "coinMarketCapId": null
   },
   {
@@ -2246,7 +2246,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "near",
+    "coinGeckoId": "near",
     "coinMarketCapId": null
   },
   {
@@ -2264,7 +2264,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "nexum",
+    "coinGeckoId": "nexum",
     "coinMarketCapId": null
   },
   {
@@ -2282,7 +2282,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "sushi",
+    "coinGeckoId": "sushi",
     "coinMarketCapId": null
   },
   {
@@ -2300,7 +2300,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "celo",
+    "coinGeckoId": "celo",
     "coinMarketCapId": null
   },
   {
@@ -2318,7 +2318,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "ftx-token",
+    "coinGeckoId": "ftx-token",
     "coinMarketCapId": null
   },
   {
@@ -2336,7 +2336,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": "chain-2",
+    "coinGeckoId": "chain-2",
     "coinMarketCapId": null
   },
   {
@@ -2354,7 +2354,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2372,7 +2372,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2390,7 +2390,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2408,7 +2408,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2426,7 +2426,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2444,7 +2444,7 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2462,7 +2462,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2480,7 +2480,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2498,7 +2498,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2516,7 +2516,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2534,7 +2534,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
@@ -2552,7 +2552,7 @@
     "isInPanoraTokenList": false,
     "isBanned": true,
     "panoraOrderIndex": 100000,
-    "coingeckoId": null,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   }
 ]
