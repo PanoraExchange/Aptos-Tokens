@@ -1715,7 +1715,7 @@
     "faAddress": null,
     "name": "CASH",
     "symbol": "CASH",
-    "decimals": 8,
+    "decimals": 6,
     "bridge": null,
     "panoraSymbol": "CASH",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/CASH.png",
@@ -1723,7 +1723,7 @@
     "category": "Meme",
     "isInPanoraTokenList": true,
     "isBanned": false,
-    "panoraOrderIndex": 476,
+    "panoraOrderIndex": 480,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
