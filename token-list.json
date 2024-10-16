@@ -2608,5 +2608,22 @@
     "panoraOrderIndex": 100000,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },{
+    "chainId": 1,
+    "tokenAddress": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec::abtc::ABTC",
+    "faAddress": null,
+    "name": "aBTC",
+    "symbol": "aBTC",
+    "decimals": 10,
+    "bridge": "Echo",
+    "panoraSymbol": "aBTC",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/aBTC.svg",
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "category": "Bridged",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 100000,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
