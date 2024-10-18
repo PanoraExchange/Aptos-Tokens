@@ -2623,7 +2623,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coinGeckoId": null,
+    "coinGeckoId": "abtc",
     "coinMarketCapId": null
   }
 ]
