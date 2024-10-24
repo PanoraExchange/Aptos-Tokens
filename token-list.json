@@ -122,7 +122,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 33,
-    "coinGeckoId": null,
+    "coinGeckoId": "abtc",
     "coinMarketCapId": null
   },
   {
@@ -1775,7 +1775,7 @@
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/CAPTOS.png",
     "websiteUrl": null,
     "category": "Meme",
-    "isInPanoraTokenList": true,
+    "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 460,
     "coinGeckoId": null,
