@@ -12,7 +12,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     decimals: 9,
     logoUrl:
       "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/APT.svg",
-    websiteUrl: "https://aptosfoundation.org",
+    websiteUrl: "https://burritos-aptos.com/",
     coinGeckoId: null,
     coinMarketCapId: null,
   },
