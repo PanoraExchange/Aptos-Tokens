@@ -11,7 +11,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     symbol: "BURRITOS",
     decimals: 9,
     logoUrl:
-      "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/APT.svg",
+      "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/BURRITO.png",
     websiteUrl: "https://burritos-aptos.com/",
     coinGeckoId: null,
     coinMarketCapId: null,
