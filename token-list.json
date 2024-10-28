@@ -104,8 +104,8 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 25,
-    "coinGeckoId": "tether",
-    "coinMarketCapId": 825
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   },
   {
     "chainId": 1,
@@ -824,8 +824,8 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 190,
-    "coinGeckoId": "tether",
-    "coinMarketCapId": 825
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   },
   {
     "chainId": 1,
@@ -1165,7 +1165,7 @@
     "category": "Native",
     "isInPanoraTokenList": false,
     "isBanned": false,
-    "panoraOrderIndex": 285,
+    "panoraOrderIndex": 285,  
     "coinGeckoId": "tortuga-staked-aptos",
     "coinMarketCapId": 22412
   },
@@ -1184,8 +1184,8 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 290,
-    "coinGeckoId": "tether",
-    "coinMarketCapId": 825
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   },
   {
     "chainId": 1,
@@ -1847,7 +1847,7 @@
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/MODENG.jpg",
     "websiteUrl": null,
     "category": "Meme",
-    "isInPanoraTokenList": false,
+    "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 475,
     "coinGeckoId": null,
@@ -1865,7 +1865,7 @@
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/CASH.png",
     "websiteUrl": "https://app.zion.bet",
     "category": "Meme",
-    "isInPanoraTokenList": false,
+    "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 480,
     "coinGeckoId": null,
@@ -2282,6 +2282,24 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 600,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0xc89f2e0a7f61424e0b951936820f0423e3f076948dcdced112b76244ed840a25::burritos_coin::BurritosCoin",
+    "faAddress": null,
+    "name": "BURRITOS",
+    "symbol": "BURRITOS",
+    "decimals": 9,
+    "bridge": null,
+    "panoraSymbol": "BURRITOS",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/BURRITOS.png",
+    "websiteUrl": "https://burritos-aptos.com",
+    "category": "Meme",
+    "isInPanoraTokenList": false,
+    "isBanned": false,
+    "panoraOrderIndex": 605,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
