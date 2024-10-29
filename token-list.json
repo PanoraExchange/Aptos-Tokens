@@ -3076,5 +3076,23 @@
     "panoraOrderIndex": 100000,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0xc32ba5d293577cbb1df390f35b2bc6369a593b736d0865fedec1a2b08565de8e::in_coin::InCoin",
+    "faAddress": null,
+    "name": "Token IN",
+    "symbol": "TIN",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "TIN",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TIN.png",
+    "websiteUrl": "https://ongame.dev",
+    "category": "GameFi",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 610,
+    "coinGeckoId": "token-in",
+    "coinMarketCapId": 27939
   }
 ]
