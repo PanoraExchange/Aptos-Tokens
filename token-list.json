@@ -3076,5 +3076,23 @@
     "panoraOrderIndex": 100000,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x8ea59d57259d0312fa21e0cb9099d359462d9e0050c9139960ff9a2313ce1c9d::coin::T",
+    "faAddress": null,
+    "name": "o.xyz",
+    "symbol": "O",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "O",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/o-xyz.svg",
+    "websiteUrl": "https://www.o.xyz/",
+    "category": "Native",
+    "isInPanoraTokenList": false,
+    "isBanned": false,
+    "panoraOrderIndex": 100000,
+    "coinGeckoId": "o-xyz",
+    "coinMarketCapId": null
   }
 ]
