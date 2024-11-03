@@ -554,7 +554,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 125,
-    "coinGeckoId": null,
+    "coinGeckoId": "trufin-staked-apt",
     "coinMarketCapId": null
   },
   {
