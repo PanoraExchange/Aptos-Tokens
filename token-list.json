@@ -308,7 +308,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
-    "faAddress": null,
+    "faAddress": "0xa0d9d647c5737a5aed08d2cfeb39c31cf901d44bc4aa024eaa7e5e68b804e011",
     "name": "Thala APT",
     "symbol": "thAPT",
     "decimals": 8,
@@ -554,7 +554,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 125,
-    "coinGeckoId": null,
+    "coinGeckoId": "trufin-staked-apt",
     "coinMarketCapId": null
   },
   {
@@ -2305,6 +2305,24 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": "0x8ea59d57259d0312fa21e0cb9099d359462d9e0050c9139960ff9a2313ce1c9d::coin::T",
+    "faAddress": null,
+    "name": "o.xyz",
+    "symbol": "O",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "O",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/o-xyz.svg",
+    "websiteUrl": "https://www.o.xyz",
+    "category": "Native",
+    "isInPanoraTokenList": true,
+    "isBanned": false,
+    "panoraOrderIndex": 610,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": null,
     "faAddress": "0x3b5200e090d188c274e06b0d64b3f66638fb996fb0b350499975ff36b1f4595",
     "name": "esMKL",
@@ -2606,8 +2624,8 @@
     "isInPanoraTokenList": false,
     "isBanned": false,
     "panoraOrderIndex": 100000,
-    "coinGeckoId": "tether",
-    "coinMarketCapId": 825
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   },
   {
     "chainId": 1,
