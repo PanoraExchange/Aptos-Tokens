@@ -308,7 +308,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
-    "faAddress": null,
+    "faAddress": "0xa0d9d647c5737a5aed08d2cfeb39c31cf901d44bc4aa024eaa7e5e68b804e011",
     "name": "Thala APT",
     "symbol": "thAPT",
     "decimals": 8,
