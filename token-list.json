@@ -104,7 +104,7 @@
     "isInPanoraTokenList": true,
     "isBanned": false,
     "panoraOrderIndex": 25,
-    "coinGeckoId": null,
+    "coinGeckoId": "tether",
     "coinMarketCapId": null
   },
   {
