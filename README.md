@@ -1,28 +1,37 @@
-# Panora: Leading DEX Aggregator on Aptos
+# Panora: The Leading DEX Aggregator on Aptos
 ## Superior Aggregation, Best Rates, Exceptional UI/UX, Advanced Token Discovery
-Panora is dedicated to empowering the Aptos community with a seamless and secure trading experience for all tokens. Our platform supports both established and emerging tokens and guarantees that every token meets our stringent verification standards. This enables you to trade with confidence and peace of mind.
+Panora is dedicated to empowering the Aptos community with a seamless and secure trading experience for all tokens. Panora support all tokens tradable on-chain and combines superior aggregation, best rates, a top-tier user interface, with advanced token discovery to provide the best trading experience on Aptos.
 
-# Our Commitment:
-- Superior Aggregation: Combining liquidity from all available sources on Aptos for optimal swap and trade experience.
-- Best Rates: Utilizing advanced multi-hop and split routing algorithms to secure the best rates.
-- Exceptional UI/UX: Enjoy an intuitive and user-friendly interface designed for effortless trading.
-- Advanced Token Discovery: Providing a comprehensive and categorized catalog of all tradeable tokens on the Aptos chain.
+## Our Commitment:
+- `Superior Aggregation`: Combining liquidity from all available sources on Aptos for optimal swap and trade experience.
+- `Best Rates`: Utilizing advanced multi-hop and split routing algorithms to secure the best rates.
+- `Exceptional UI/UX`: Enjoy an intuitive and user-friendly interface designed for effortless trading.
+- `Advanced Token Discovery`: Providing a comprehensive and categorized catalog of all tradeable tokens on the Aptos chain.
 
 # Aptos Token List:
-Panora's Aptos Token List is the go-to categorized catalog for both legacy coins and Fungible Assets tradeable on the Aptos chain. You can use the JSON file in github to fetch the [Aptos Token List](https://github.com/PanoraExchange/Aptos-Tokens/blob/main/token-list.json)
+Panora's Aptos Token List is the go-to categorized catalog for both legacy coins and Fungible Assets tradeable on the Aptos chain. You can public API endpoint or JSON file in github to fetch the [Aptos Token List](https://github.com/PanoraExchange/Aptos-Tokens/blob/main/token-list.json). 
 
-This list contains:
+Visit [docs.panora.exchange](https://docs.panora.exchange) for detailed information on Token List.
 
-- `Community-Validated Tokens`: Tokens with details verified by the community/partners and are visible on the Panora platform. To get included, a token must establish a strong brand presence and credibility within the Aptos ecosystem. For example, you need to be active enough to at least be a part of the private Aptos Ecosystem telegram groups. These tokens are accessible from the Token List by setting 'isInPanoraTokenList' parameter to 'true'. 
+## Token Tags:
 
-- `Non-Validated Tokens`: Established or emerging tokens with sufficient liquidity on Aptos, even if not community-validated yet. Tokens get added or dropped from here automatically based on minimum liquidity criteria, which is subject to changes. These tokens are accessible from the Token List by setting 'isInPanoraTokenList' parameter to ‘false’.
+a) Categories:
+- `Native`: Tokens issued directly on the chain, excluding meme tokens.
+- `Meme`: Community-driven tokens based on trends or hype.
+- `Bridged`: Tokens originating from other chains and made usable via bridging.
 
-- `Banned Tokens`: Tokens that are prohibited from trading on Panora and partner projects using this list, thereby ensuring user safety. These tokens are accessible from the Token List by setting 'isBanned' parameter to 'true'.
+b) Labels
+- `Verified`: Tokens with verified logo-to-address mapping, ensuring accurate identification.
+- `Recognized`: Tokens with mapped logos but may not be verified by the community yet or have had their Verified label revoked.
+- `Unverified`: Tokens tradable on-chain but aren’t recognized or verified yet. 
+- `Banned`: Tokens flagged for confirmed security risks or malicious activity, discouraged for trading.
+- `InternalFA`: Addresses used by DEXs before the pairing between Coin and Fungible Asset (FA) standard tokens were established; may have unique traits.
+- `LP` (Liquidity Pool): Tokens representing liquidity pool shares in asset pairs.
 
 
-# Projects - Open a PR to get your token details added to Panora's Aptos Token List:
+# Projects - How to Add Your Token to the Panora Token List:
 
-To add emerging tokens to the Aptos Token List, follow these steps:
+To add your token to the Aptos Token List, follow these steps:
 
 ## 1. Fork the Repository
 
@@ -40,16 +49,16 @@ Provide the following details:
 
 ### `SubmitTokenRequestInfo`
 
-- `chainId`: The chain ID to which the token belongs (default is 1 for Aptos Mainnet)
-- `tokenAddress`: The complete address used to identify the token as per the Aptos Coin Standard (Legacy)
-- `faAddress`: The complete address used to identify the token as per the Aptos Fungible Asset (FA) Standard
-- `name`: The name of the token
-- `symbol`: The symbol registered by the token minter on-chain
-- `decimals`: The number of decimal places for the token
+- `chainId`: The chain ID associated with the token (Default: 1 for Aptos Mainnet)
+- `tokenAddress`: The complete address of the token as per the Aptos Coin Standard (Legacy)
+- `faAddress`: The complete address of the token as per the Aptos Coin Standard (Legacy)
+- `name`: The on-chain registered name of the token
+- `symbol`: The on-chain registered symbol of the token
+- `decimals`: The number of decimal places of the token
 - `logoUrl`: The URL for the token's logo (the logo should be added to the logos folder in your repository to get the correct link)
-- `websiteUrl`:  The official website URL of the token (optional, but preferred for faster validations)
-- `coinGeckoId`: The CoinGecko ID used for fetching price feeds (optional)
-- `coinMarketCapId`: The CoinMarketCap ID used for fetching price feeds (optional)
+- `websiteUrl`: The official website URL of the token (optional)
+- `coinGeckoId`: The CoinGecko ID of the token (optional)
+- `coinMarketCapId`: The CoinMarketCap ID of the token (optional)
 
 Example:
 
@@ -89,21 +98,21 @@ It is highly recommended to engage in discussions when new projects seek validat
 
 Aptos Token List Response object consists of the following fields:
 
-- `chainId`: The chain ID to which the token belongs. (Note: The default chain ID is 1 for Aptos Mainnet)
-- `tokenAddress`: The complete address used to identify the token as per the Aptos Coin Standard (Legacy)
-- `faAddress`: The complete address used to identify the token as per the Aptos Fungible Asset (FA) Standard
-- `name`: The name of the token
-- `symbol`: The symbol registered by the token minter on-chain
-- `decimals`: The number of decimal places for the token
-- `bridge`: The bridge associated with the token, if any (optional)
-- `panoraSymbol`: Similar to symbol, but with prefixes based on the bridge: lz for LayerZero, wh for Wormhole, and ce for Celersimilar to `symbol`, except: layerzero symbols use `lz` prefix, wormhole symbols use `wh` prefix and celer symbols use `ce` prefix
-- `logoUrl`: The URL for the token's logo
-- `category`: The token's classification (Native, Meme, or Bridged)
-- `isInPanoraTokenList`: Indicates if the token is community-validated and visible for trading on the Panora platform
-- `isBanned`: Indicates if the token is prohibited from trading
-- `panoraOrderIndex`: The default sorting order for tokens within Panora Swap
-- `coinGeckoId`: The CoinGecko ID, which may be used to fetch price feeds (optional)
-- `coinMarketCapId`: The CoinMarketCap ID, which may be used to fetch price feeds (optional).
+- `chainId`: The chain ID associated with the token (Default: 1 for Aptos Mainnet)
+- `tokenAddress`: The complete address of the token as per the Aptos Coin Standard (Legacy)
+- `faAddress`: The complete address of the token as per the Aptos Coin Standard (Legacy)
+- `name`: The on-chain registered name of the token
+- `symbol`: The on-chain registered symbol of the token
+- `decimals`: The number of decimal places of the token
+- `bridge`: The bridge associated with the token, if applicable (optional)
+- `panoraSymbol`: Similar to symbol, but with prefixes based on the bridge: lz for LayerZero, wh for Wormhole, and ce for Celer
+- `logoUrl`: The URL for the token’s logo(optional)
+- `websiteUrl`: The official website URL of the token (optional)
+- `panoraUI`: Specifies whether the token name and logo is visible on the Panora UI
+- `panoraTags`: The tags associated with the token
+- `panoraIndex`: The default sorting order of tokens within the Panora UI
+- `coinGeckoId`: The CoinGecko ID of the token (optional)
+- `coinMarketCapId`: The CoinMarketCap ID of the token (optional)
 
 
 Example:
@@ -120,12 +129,11 @@ Example:
     "panoraSymbol": "lzUSDC",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg",
     "websiteUrl": null,
-    "category": "Bridged",
-    "isInPanoraTokenList": true,
-    "isBanned": false,
-    "panoraOrderIndex": 15,
-    "coinGeckoId": "usd-coin",
-    "coinMarketCapId": 3408
+    "panoraUI": true,
+    "panoraTags": ["Bridged", "Verified"],
+    "panoraIndex": 10,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ```
 

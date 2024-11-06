@@ -18,14 +18,13 @@ export type TokenInfo = {
   name: string
   symbol: string
   decimals: number
-  bridge: "LayerZero" | "Wormhole" | "Celer" | null
+  bridge: "LayerZero" | "Wormhole" | "Celer" | "Echo" | null
   panoraSymbol: string
   logoUrl: string | null
   websiteUrl: string | null
-  category: "Native" | "Bridged" | "Meme"
-  isInPanoraTokenList: boolean
-  isBanned: boolean
-  panoraOrderIndex: number | null
+  panoraUI: boolean
+  panoraTags?: string[] | null
+  panoraIndex?: number | null
   coinGeckoId: string | null
   coinMarketCapId: number | null
 }
