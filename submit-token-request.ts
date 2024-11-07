@@ -9,7 +9,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     "symbol": "GEM",
     "decimals": 8,
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/GEM.svg",
-    "websiteUrl": "https://gemzeitgeist.medium.com/",
+    "websiteUrl": "https://medium.com/gem-zeitgeist",
     "coinGeckoId": null,
     "coinMarketCapId": null,
   }
