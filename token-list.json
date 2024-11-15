@@ -2823,10 +2823,8 @@
   },
   {
     "chainId": 1,
-    "tokenAddress": {
-      "v1": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::aptos_coin::AptosCoin",
-      "v2": null
-    },
+    "tokenAddress": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::aptos_coin::AptosCoin",
+    "faAddress": null,
     "name": "Aptos Coin",
     "symbol": "APT",
     "decimals": 8,
@@ -2842,10 +2840,8 @@
   },
   {
     "chainId": 1,
-    "tokenAddress": {
-      "v1": "0xbbc4a9af0e7fa8885bda5db08028e7b882f2c2bba1e0fedbad1d8316f73f8b2f::ograffio::Ograffio",
-      "v2": null
-    },
+    "tokenAddress": "0xbbc4a9af0e7fa8885bda5db08028e7b882f2c2bba1e0fedbad1d8316f73f8b2f::ograffio::Ograffio",
+    "faAddress": null,
     "name": "ograffio.com",
     "symbol": "GIFT",
     "decimals": 8,
@@ -2861,10 +2857,8 @@
   },
   {
     "chainId": 1,
-    "tokenAddress": {
-      "v1": "0xbe5e8fa9dd45e010cadba1992409a0fc488ca81f386d636ba38d12641ef91136::maincoin::Aptmeme",
-      "v2": null
-    },
+    "tokenAddress": "0xbe5e8fa9dd45e010cadba1992409a0fc488ca81f386d636ba38d12641ef91136::maincoin::Aptmeme",
+    "faAddress": null,
     "name": "▪ APTOSMEME.COM 🔸NEW",
     "symbol": "COINS",
     "decimals": 6,
