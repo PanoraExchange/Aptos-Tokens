@@ -47,7 +47,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 10,
-    "coinGeckoId": null,
+    "coinGeckoId": "layerzero-bridged-usdc-aptos",
     "coinMarketCapId": null
   },
   {
@@ -98,7 +98,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 25,
-    "coinGeckoId": null,
+    "coinGeckoId": "layerzero-bridged-usdt-aptos",
     "coinMarketCapId": null
   },
   {
@@ -115,7 +115,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 30,
-    "coinGeckoId": null,
+    "coinGeckoId": "layerzero-bridged-weth-aptos",
     "coinMarketCapId": null
   },
   {
@@ -336,7 +336,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 95,
-    "coinGeckoId": null,
+    "coinGeckoId": "bridged-usd-coin-wormhole-ethereum",
     "coinMarketCapId": null
   },
   {
@@ -389,6 +389,23 @@
     "panoraIndex": 110,
     "coinGeckoId": "o-xyz",
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "faAddress": null,
+    "name": "OBOT",
+    "symbol": "OBOT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "OBOT",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/OBOT.png",
+    "websiteUrl": null,
+    "panoraUI": true,
+    "panoraTags": ["Meme", "Verified"],
+    "panoraIndex": 111,
+    "coinGeckoId": "obot",
+    "coinMarketCapId": 33986
   },
   {
     "chainId": 1,
@@ -506,7 +523,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 145,
-    "coinGeckoId": null,
+    "coinGeckoId": "layerzero-bridged-wbtc-aptos",
     "coinMarketCapId": null
   },
   {
@@ -676,7 +693,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 195,
-    "coinGeckoId": null,
+    "coinGeckoId": "ethereum-wormhole",
     "coinMarketCapId": null
   },
   {
@@ -1594,7 +1611,7 @@
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 352,
-    "coinGeckoId": null,
+    "coinGeckoId": "wrapped-ether-celer",
     "coinMarketCapId": null
   },
   {
