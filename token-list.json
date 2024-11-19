@@ -86,8 +86,25 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "faAddress": "0x173f3bc501dfe7e4cac8e4463cb277e205e9a299380bc22a87ce455f014f3fb7",
+    "name": "Aries Wrapped Tether USD",
+    "symbol": "AWUSDt",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "aWUSDt",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDT.svg",
+    "websiteUrl": null,
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 24,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
-    "faAddress": null,
+    "faAddress": "0xe568e9322107a5c9ba4cbd05a630a5586aa73e744ada246c3efb0f4ce3e295f3",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
@@ -104,7 +121,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
-    "faAddress": null,
+    "faAddress": "0xae02f68520afd221a5cd6fda6f5500afedab8d0a2e19a916d6d8bc2b36e758db",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 6,
@@ -172,7 +189,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
-    "faAddress": null,
+    "faAddress": "0x9da434d9b873b5159e8eeed70202ad22dc075867a7793234fbc981b63e119",
     "name": "Gui Inu",
     "symbol": "GUI",
     "decimals": 6,
@@ -461,7 +478,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
-    "faAddress": null,
+    "faAddress": "0xad18575b0e51dd056e1e082223c0e014cbfe4b13bc55e92f450585884f4cf951",
     "name": "PancakeSwap Token",
     "symbol": "CAKE",
     "decimals": 8,
@@ -512,7 +529,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
-    "faAddress": null,
+    "faAddress": "0xa64d2d6f5e26daf6a3552f51d4110343b1a8c8046d0a9e72fa4086a337f3236c",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 6,
@@ -676,7 +693,7 @@
     "panoraUI": true,
     "panoraTags": ["Meme", "Verified"],
     "panoraIndex": 190,
-    "coinGeckoId": null,
+    "coinGeckoId": "cash-2",
     "coinMarketCapId": null
   },
   {
@@ -699,7 +716,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59::stakestone_ether::StakeStoneEther",
-    "faAddress": null,
+    "faAddress": "0x700e285ee9f4fc9b0e42a6217e329899e1353476bc532a484048008c8bc8e400",
     "name": "StakeStone Ether",
     "symbol": "STONE",
     "decimals": 8,
