@@ -460,6 +460,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
+    "faAddress": null,
+    "name": "Hair",
+    "symbol": "HAIR",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "HAIR",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/HAIR.png",
+    "websiteUrl": "https://hairclub.io",
+    "panoraUI": true,
+    "panoraTags": ["Meme", "Verified"],
+    "panoraIndex": 122,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
     "faAddress": null,
     "name": "ZIPPO THE OG MASCOT",
