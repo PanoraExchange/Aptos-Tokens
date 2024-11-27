@@ -205,6 +205,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xef0d49f03e48dbd055c3a369f74a304c366bda148005ddf6bb881ced79da0b09",
+    "name": "Night Coin",
+    "symbol": "NIGHT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "NIGHT",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/NIGHT.png",
+    "websiteUrl": "https://midnight.io",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 53,
+    "coinGeckoId": null,
+    "coinMarketCapId": 34135
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
     "faAddress": null,
     "name": "EDOG",
