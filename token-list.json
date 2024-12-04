@@ -189,7 +189,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
-    "faAddress": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da",
+    "faAddress": null,
     "name": "MOO MOO",
     "symbol": "MOOMOO",
     "decimals": 6,
