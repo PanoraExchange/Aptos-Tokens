@@ -2973,5 +2973,21 @@
     "panoraIndex": 1000001,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
+    "faAddress": null,
+    "name": "Tomarket",
+    "symbol": "TOMA",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "TOMA",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TOMA.svg",
+    "websiteUrl": "https://tomarket.ai/",
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 1000010,
+    "coinGeckoId": "tomarket",
+    "coinMarketCapId": null
   }
 ]
