@@ -13,12 +13,14 @@ Panora's Aptos Token List is the go-to categorized catalog for both legacy coins
 
 Visit [docs.panora.exchange](https://docs.panora.exchange) for detailed information on Token List.
 
-## Token Tags:
+## Panora Tags:
+To enhance token classification and identification, we’ve introduced a field `panoraTags` in token list response. This field combines categories and labels into a single parameter, providing clearer insights and context about each token's status and characteristics. Here’s what they represent:
 
-a) Categories:
-- `Native`: Tokens issued directly on the chain, excluding meme tokens.
-- `Meme`: Community-driven tokens based on trends or hype.
-- `Bridged`: Tokens originating from other chains and made usable via bridging.
+a) Categories (Tokens are segregated on Panora UI based on their category):
+- `Native`: Tokens that are native to the chain and issued directly on it (excludes emojicoin and meme)
+- `Emojicoin`: Tokens launched on emojicoin.fun (includes both graduated and non-graduated emojicoins).
+- `Meme`: Tokens primarily driven by community hype, memes, or trends
+- `Bridged`: Tokens that originate from another chain and are bridged for use
 
 b) Labels
 - `Verified`: Tokens with verified logo-to-address mapping, ensuring accurate identification.
@@ -39,7 +41,7 @@ Fork the [Aptos-Tokens](https://github.com/PanoraExchange/Aptos-Tokens) reposito
 
 ## 2. Add Token Icon
 
-Add the token_symbol.svg file for the token in the [logos](https://github.com/PanoraExchange/Aptos-Tokens/tree/main/logos) folder in your forked repository. Ensure it's no larger than 250x250 pixels and has a unique symbol not used by any existing token. 
+Add the token_symbol.svg file for the token in the [logos](https://github.com/PanoraExchange/Aptos-Tokens/tree/main/logos) folder in your forked repository. Ensure it's ~100x100 pixels in .png format and has a unique symbol not used by any existing token. 
 
 ## 3. Update `submit-token-request.ts`
 
@@ -108,8 +110,8 @@ Aptos Token List Response object consists of the following fields:
 - `panoraSymbol`: Similar to symbol, but with prefixes based on the bridge: lz for LayerZero, wh for Wormhole, and ce for Celer
 - `logoUrl`: The URL for the token’s logo(optional)
 - `websiteUrl`: The official website URL of the token (optional)
-- `panoraUI`: Specifies whether the token name and logo is visible on the Panora UI
-- `panoraTags`: The tags associated with the token
+- `panoraUI`: When set to true, displays the token name and logo on the Panora interface.
+- `panoraTags`: Lists the tags associated with the token.
 - `panoraIndex`: The default sorting order of tokens within the Panora UI
 - `coinGeckoId`: The CoinGecko ID of the token (optional)
 - `coinMarketCapId`: The CoinMarketCap ID of the token (optional)
@@ -118,22 +120,28 @@ Aptos Token List Response object consists of the following fields:
 Example:
 
 ```typescript
-  {
-    "chainId": 1,
-    "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
-    "faAddress": "0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "bridge": "LayerZero",
-    "panoraSymbol": "lzUSDC",
-    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg",
-    "websiteUrl": null,
-    "panoraUI": true,
-    "panoraTags": ["Bridged", "Verified"],
-    "panoraIndex": 10,
-    "coinGeckoId": null,
-    "coinMarketCapId": null
-  }
+   {
+      "chainId": 1,
+      "tokenAddress": null,
+      "faAddress": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+      "name": "Tether USD",
+      "symbol": "USDt",
+      "decimals": 6,
+      "bridge": null,
+      "panoraSymbol": "USDt",
+      "usdPrice": "1.00377379",
+      "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDT.svg",
+      "websiteUrl": "https://tether.to",
+      "panoraUI": true,
+      "panoraTags": [
+        "Native",
+        "Verified"
+      ],
+      "panoraIndex": 2,
+      "coinGeckoId": "tether",
+      "coinMarketCapId": 825,
+      "isInPanoraTokenList": true, // Do not use. This field will get deprecated.
+      "isBanned": false // Do not use. This field will get deprecated.
+    }
 ```
 
