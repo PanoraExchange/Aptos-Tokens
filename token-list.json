@@ -154,6 +154,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8",
+    "name": "VibrantX token",
+    "symbol": "VIBE",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "VIBE",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/VIBE.png",
+    "websiteUrl": "https://vibrantx.finance",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 47,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
     "faAddress": "0x9da434d9b873b5159e8eeed70202ad22dc075867a7793234fbc981b63e119",
     "name": "Gui Inu",
