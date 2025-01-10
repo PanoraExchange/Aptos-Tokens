@@ -342,23 +342,6 @@
   },
   {
     "chainId": 1,
-    "tokenAddress": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
-    "faAddress": "0x173f3bc501dfe7e4cac8e4463cb277e205e9a299380bc22a87ce455f014f3fb7",
-    "name": "Aries Wrapped Tether USD",
-    "symbol": "AWUSDt",
-    "decimals": 6,
-    "bridge": null,
-    "panoraSymbol": "aWUSDt",
-    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDT.svg",
-    "websiteUrl": null,
-    "panoraUI": true,
-    "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 92,
-    "coinGeckoId": null,
-    "coinMarketCapId": null
-  },
-  {
-    "chainId": 1,
     "tokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
     "faAddress": "0xe568e9322107a5c9ba4cbd05a630a5586aa73e744ada246c3efb0f4ce3e295f3",
     "name": "Tether USD",
