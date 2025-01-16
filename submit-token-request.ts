@@ -6,7 +6,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     tokenAddress:
       "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
     faAddress:
-      "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5",
+      "NULL",
     name: "GEM",
     symbol: "GEM",
     decimals: 6,
