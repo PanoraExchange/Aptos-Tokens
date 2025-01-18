@@ -184,7 +184,7 @@
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 47,
     "coinGeckoId": null,
-    "coinMarketCapId": null
+    "coinMarketCapId": 35266
   },
   {
     "chainId": 1,
@@ -2729,7 +2729,7 @@
     "decimals": 6,
     "bridge": null,
     "panoraSymbol": "GEM",
-    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/GEM.png",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logo s/GEM.png",
     "websiteUrl": "https://globalemoney.io",
     "panoraUI": false,
     "panoraTags": ["Native", "Recognized"],
