@@ -3144,5 +3144,22 @@
     "panoraIndex": 1000001,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x9d4d8a8f1551317276bc2fbf924e7adf82b722b72f4f914dcfb6cc1811bc383f::Sidelined::Sidelined",
+    "faAddress": null,
+    "name": "sidelined?",
+    "symbol": "sidelined",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "sidelined",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/sidelined.png",
+    "websiteUrl": "https://x.com/SidelinedAPT",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Recognized"],
+    "panoraIndex": 380,
+    "coinGeckoId": null,
+    "coinMarketCapId": 1079041
   }
 ]
