@@ -1039,7 +1039,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986::RAPT::RAPT",
-    "faAddress": null,
+    "faAddress": "0x67941a4189ae5f8037d9532526029bf12dec1b1875a8c9b03034686240fdda41",
     "name": "Raptos",
     "symbol": "RAPT",
     "decimals": 6,
@@ -1141,7 +1141,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5::BEDOG::BEDOG",
-    "faAddress": null,
+    "faAddress": "0x22b8228d8f128e901bf17b6155f2979acebb26d2a621af61244b8494868bfe4d",
     "name": "Baby Edog",
     "symbol": "BEDOG",
     "decimals": 6,
@@ -1192,7 +1192,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
-    "faAddress": null,
+    "faAddress": "0x70740db1fddae309f1a3612091446fc7db1f278a8df30f28c3871a624e14967a",
     "name": "GHOST",
     "symbol": "GHO",
     "decimals": 6,
@@ -1209,7 +1209,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
-    "faAddress": null,
+    "faAddress": "0x6ff3ab54e5052a48a9865eb9578ba8eae6640c0f6c263f752cbdee0cc24bd9f3",
     "name": "FaptOS",
     "symbol": "FaptOS",
     "decimals": 6,
@@ -1243,7 +1243,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
-    "faAddress": null,
+    "faAddress": "0x08f0221229fce7f51120a02a31bd2a349b349b17d05521f1e2040708a2c054e0",
     "name": "AptosMAGA",
     "symbol": "AMAGA",
     "decimals": 6,
@@ -1294,7 +1294,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x744467880fbc1a723d8ba8437cd6de3de942789fe6611fc992de8574596c9b5c::CMT::CMT",
-    "faAddress": null,
+    "faAddress": "0x60325dce3573382050cdb9da7ab509093013c1c240cc61f63af83bc8f0f0ff19",
     "name": "Cryptomolot",
     "symbol": "CMT",
     "decimals": 6,
@@ -1702,7 +1702,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS",
-    "faAddress": null,
+    "faAddress": "0x788e59db05148d86eebe640f8f215f43c8c1f52938298b3e6ad3c7a6be5cb641",
     "name": "APTS Token",
     "symbol": "APTS",
     "decimals": 8,
@@ -1872,7 +1872,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
-    "faAddress": null,
+    "faAddress": "0x7698721233c7ac82a8059aa58ab1e43e4c173819310e3b18ac9bb7ea6550c595",
     "name": "APass Coin",
     "symbol": "APC",
     "decimals": 8,
@@ -1889,7 +1889,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x9a19f4c81f7dc7b8ae6f568d562e6fb056c3894303229c91f73f34c24b0403b0::luffycoin::Luffy",
-    "faAddress": null,
+    "faAddress": "0x4a4be4cbbc1b91ebeaaa4790c6eded83896ce52c6241e7e6c05ff2e5fcd2e656",
     "name": "LUFFY",
     "symbol": "LUFFY",
     "decimals": 6,
@@ -1940,7 +1940,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x3be1b0966a7f400c1ea57e6ddfe5f060282592a1f4df4d45872a7c8bc46b5ba5::zapdos::Zapdos",
-    "faAddress": null,
+    "faAddress": "0x70307ba0faf047ad0536fcf1e51de51e30fa47a90e2d96e5b4a3ad332021f5bc",
     "name": "Zapdos",
     "symbol": "ZAP",
     "decimals": 1,
@@ -2059,7 +2059,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::EVA",
-    "faAddress": null,
+    "faAddress": "0x5c72816a0a188673f2d457c855226949db1befd062201c03db1ee5b21fdb3383",
     "name": "EVA",
     "symbol": "EVA",
     "decimals": 8,
@@ -2076,7 +2076,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608::CITADELI::CITADELI",
-    "faAddress": null,
+    "faAddress": "0x845c606c354c1a5742cc5643e45394313c1443855fb5332c5d649cc58e934316",
     "name": "Citadeli",
     "symbol": "CTD",
     "decimals": 8,
@@ -2093,7 +2093,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x9906c12b3b7a12721b9dddf23e6dd5ff5dfc93c5241dada855780758b01fedd3::DOOT_SKELETON::DOOT_SKELETON",
-    "faAddress": null,
+    "faAddress": "0x78bdcff383cb944cc0ad04868e9b2ae7c3b27844dcea6e92a398d9fee8d0722f",
     "name": "DOOT Skeleton",
     "symbol": "DOOT",
     "decimals": 8,
@@ -2110,7 +2110,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x8235f05ea1901e682bc09b3be93eba0727e94c020ccb0e57074843315c675521::BLADEEWIFHAT::BLADEEWIFHAT",
-    "faAddress": null,
+    "faAddress": "0xf524e4b28337c297b05a80d37e149d8c2b3542dcc6de25a5c3daba7f2ec922c8",
     "name": "bladeewifhat",
     "symbol": "BLADEE",
     "decimals": 8,
@@ -2212,7 +2212,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x4d981c48d254c4cea6110090ad1c2890d5ea35d49cbed28e76c0d3bb90ddf873::crab_coin::CrabCoin",
-    "faAddress": null,
+    "faAddress": "0xb2a49920e7d8bc7dd9a65b51c6aa2f1a4129b979e8c90b8d686ec9a7afe1a03a",
     "name": "Crab Coin",
     "symbol": "CRAB",
     "decimals": 8,
@@ -2246,7 +2246,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
-    "faAddress": null,
+    "faAddress": "0x69ef9f94420a1d287892fb42450ca5777984c1c22cc886407726482480276ec1",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
@@ -2263,7 +2263,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
-    "faAddress": null,
+    "faAddress": "0xf64b00da0f33180ce2ab077bf99ab797b9fd9523fb43d613c7174ef85315c0ab",
     "name": "Wrapped BNB",
     "symbol": "WBNB",
     "decimals": 8,
@@ -2280,7 +2280,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
-    "faAddress": null,
+    "faAddress": "0xc73b3f454576b00d4d05393ff427537eda42f791350f30ce1f566448b5798644",
     "name": "TOSS",
     "symbol": "TOSS",
     "decimals": 9,
@@ -2297,7 +2297,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
-    "faAddress": null,
+    "faAddress": "0x6e3eee3b78f74ebf926274903ab4a89f70737f1753ee67e33d8ea2abedd5e39f",
     "name": "The People",
     "symbol": "People",
     "decimals": 6,
@@ -2348,7 +2348,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T",
-    "faAddress": null,
+    "faAddress": "0x7ed6cacf2d8b3209b97f41ba2fe1348d8df31803a1734166f77f44cd7b3dce5d",
     "name": "USD Coin (Wormhole Polygon)",
     "symbol": "USDCpo",
     "decimals": 6,
@@ -2399,7 +2399,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken",
-    "faAddress": null,
+    "faAddress": "0xd1c452f47abeae87027758de85520a1957a5e5a82cfd709c8d762e904b6fe043",
     "name": "Sui Launch Token",
     "symbol": "SLT",
     "decimals": 8,
@@ -2416,7 +2416,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
-    "faAddress": null,
+    "faAddress": "0xea76f34c9ff05bfe55a2cdb0a4e071f0ca0281ffc389dd042e00ed29f6401d8e",
     "name": "NEAR (Wormhole)",
     "symbol": "NEAR",
     "decimals": 8,
@@ -2433,7 +2433,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
-    "faAddress": null,
+    "faAddress": "0xd3985309869f7697b03af4167de38766524d50c9efe7df1a878c7b7a2d521071",
     "name": "wTBT Pool",
     "symbol": "wTBT",
     "decimals": 8,
@@ -2467,7 +2467,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xced3e98a47279b4d39a75fa8da867e2e8383d5d8ce7e59b2964a9469616a761b::coin::T",
-    "faAddress": null,
+    "faAddress": "0xcfd5a16c77a009d4cdabe8c246c8330905a9053c84682075ce957beaee411462",
     "name": "Wrapped SUI",
     "symbol": "WSUI",
     "decimals": 8,
@@ -2501,7 +2501,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T",
-    "faAddress": null,
+    "faAddress": "0x23813a24e98215ab541051432b734baecaa3737019a4891c37034f88d9944960",
     "name": "Dai Stablecoin (Wormhole)",
     "symbol": "DAI",
     "decimals": 8,
@@ -2518,7 +2518,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T",
-    "faAddress": null,
+    "faAddress": "0x5486d29c4fceec48c55e88a700eddfdf5be8663a2a873ac0d2baac21cd78b390",
     "name": "Tether USD",
     "symbol": "USDTbs",
     "decimals": 8,
@@ -2535,7 +2535,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
-    "faAddress": null,
+    "faAddress": "0x2a35044fd8f06f42db8b66ced2dd1cf1d8b93172da3c1a8969cb74906b4d9c9f",
     "name": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "decimals": 8,
@@ -2569,7 +2569,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x9a8d0e2fde92bb5a503ad899b352b630952651cba26e4959d0ed19d79f9b02ee::asset::MoveYourBody",
-    "faAddress": null,
+    "faAddress": "0x04f069996a3ae8b7dec611ef085cc2faaeab32a6f496c0187b46cc52d186c9f6",
     "name": "MoveYourBody",
     "symbol": "body",
     "decimals": 8,
@@ -2586,7 +2586,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xcefd39b563951a9ec2670aa57086f9adb3493671368ea60ff99e0bc98f697bb5::coin::T",
-    "faAddress": null,
+    "faAddress": "0x29d0e3192d56a1f0683d9fa7db9e31965f57cc7e267dd6c83639ae9538859467",
     "name": "Chain",
     "symbol": "XCN",
     "decimals": 8,
@@ -2688,7 +2688,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x13341e81b2c5960623f31cfee0b1ef674cbf23ca302852159b542adc6afe0f37::TEH_DORK_KNITE::TEH_DORK_KNITE",
-    "faAddress": null,
+    "faAddress": "0x213be4d882a73acbf4c75cb8da9addce8055509f4fdcdfe1507813b0fb529c86",
     "name": "Teh Dork Knite",
     "symbol": "BAPTMAN",
     "decimals": 8,
@@ -2773,7 +2773,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xbbc4a9af0e7fa8885bda5db08028e7b882f2c2bba1e0fedbad1d8316f73f8b2f::memes::Memecoins",
-    "faAddress": null,
+    "faAddress": "0x42b407bdea06586fb3a8a332ef5968220e0176633fe9f091ddb61cf7c51c9daf",
     "name": "‚≠ê aptosmeme.com",
     "symbol": "MEME",
     "decimals": 8,
@@ -2807,7 +2807,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xbc106d0fef7e5ce159423a1a9312e011bca7fb57f961146a2f88003a779b25c2::QUEST::QUEST",
-    "faAddress": null,
+    "faAddress": "0x0abd6aba3e5eb5b19f734104c91a9496cda97072c0308cf444ddb2da29d928d9",
     "name": "‚ñ™ AptosQuest.io",
     "symbol": "COINS",
     "decimals": 6,
@@ -2824,7 +2824,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::apt_rewards::APTRewards",
-    "faAddress": null,
+    "faAddress": "0x7cbdf79cac3f0523ca67fa3b7e9fd7632bc8fb82a548d00b39f4970a3cc6b75f",
     "name": "https://aptosx.app",
     "symbol": "APT Reward",
     "decimals": 6,
@@ -2875,7 +2875,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xbbc4a9af0e7fa8885bda5db08028e7b882f2c2bba1e0fedbad1d8316f73f8b2f::ograffio::Ograffio",
-    "faAddress": null,
+    "faAddress": "0x29b245de20d949b8cd4d1255e27c0ccfd248ffbf3d6686a6b1fbab2d94733baf",
     "name": "ograffio.com",
     "symbol": "GIFT",
     "decimals": 8,
@@ -2892,7 +2892,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0xbe5e8fa9dd45e010cadba1992409a0fc488ca81f386d636ba38d12641ef91136::maincoin::Aptmeme",
-    "faAddress": null,
+    "faAddress": "0xde51e4603718fd7dfbe9dbf6d00a3a4822069549b5c4f38ba09f5ada218e392b",
     "name": "▪ APTOSMEME.COM 🔸NEW",
     "symbol": "COINS",
     "decimals": 6,
@@ -2943,7 +2943,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::aptos_rewards::AptosRewards",
-    "faAddress": null,
+    "faAddress": "0xc510025d8e58f1c1b2d73e9b4d01d81799afd48e636195378027aba4a55d566d",
     "name": "https://aptosx.app",
     "symbol": "AptosX.app",
     "decimals": 6,
@@ -2960,7 +2960,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::moon_coin::MoonCoin",
-    "faAddress": null,
+    "faAddress": "0x85435cc6662436d3387744e91bdc1c8c7721606eccc2ea4dd63905f04ee9faa2",
     "name": "Claim APT at https://AptosX.App",
     "symbol": "AptosX.App",
     "decimals": 6,
@@ -2977,7 +2977,7 @@
   {
     "chainId": 1,
     "tokenAddress": "0x50788befc1107c0cc4473848a92e5c783c635866ce3c98de71d2eeb7d2a34f85::reward_coin::AptosReward",
-    "faAddress": null,
+    "faAddress": "0x1fecca6d54fa00abe6944315950d9e42bc5e3d9b77c3594adc0f7c664353d1cc",
     "name": "https://AptosX.App",
     "symbol": "AptosX.App",
     "decimals": 6,
