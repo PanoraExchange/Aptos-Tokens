@@ -75,7 +75,7 @@
     "symbol": "AMI",
     "decimals": 8,
     "bridge": null,
-    "panoraSymbol": "APT",
+    "panoraSymbol": "AMI",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/AMI.png",
     "websiteUrl": "https://amnis.finance",
     "panoraUI": true,
