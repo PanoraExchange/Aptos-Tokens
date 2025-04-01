@@ -9,7 +9,7 @@ const requestList: SubmitTokenRequestInfo[] = [
         "symbol": "TEVI",
         "decimals": 8,
         "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TEVI.svg",
-        "websiteUrl": "https://tevi.com",
+        "websiteUrl": "https://web3.tevi.com",
         "coinGeckoId": null,
         "coinMarketCapId": null
     }
