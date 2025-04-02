@@ -81,8 +81,8 @@
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 17,
-    "coinGeckoId": null,
-    "coinMarketCapId": null
+    "coinGeckoId": "ami",
+    "coinMarketCapId": 36126
   },
   {
     "chainId": 1,
@@ -422,6 +422,40 @@
     "panoraTags": ["Bridged", "Verified"],
     "panoraIndex": 97,
     "coinGeckoId": "abtc",
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
+    "name": "TEVI Coin",
+    "symbol": "TEVI",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "TEVI",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TEVI.svg",
+    "websiteUrl": "https://web3.tevi.com",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 98,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2",
+    "name": "Rewardy",
+    "symbol": "RWD",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "RWD",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/RWD.png",
+    "websiteUrl": "https://www.rewardywallet.com",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 99,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
