@@ -427,6 +427,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x8a7403ae3d95f181761cf36742680442c698b49e047350b77a8906ec5168bdae",
+    "name": "eAPT",
+    "symbol": "eAPT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "eAPT",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/eAPT.svg",
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 297,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
     "name": "TEVI Coin",
     "symbol": "TEVI",
