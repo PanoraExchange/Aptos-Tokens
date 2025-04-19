@@ -3109,5 +3109,39 @@
     "panoraIndex": 200000,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x35c3e420fa4fd925628366f1977865d62432c8856a2db147a1cb13f7207f6a79",
+    "name": "Thala Staked LPT",
+    "symbol": "xLPT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "sUSDe/USDC.x",
+    "logoUrl": null,
+    "websiteUrl": "https://www.thala.fi",
+    "panoraUI": false,
+    "panoraTags": ["LP"],
+    "panoraIndex": 200000,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x5b07f08f0c43104b1dcb747273c5fc13bd86074f6e8e591bf0d8c5b08720cbd4",
+    "name": "Thala Staked LPT",
+    "symbol": "xLPT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "USDC/USDT.x",
+    "logoUrl": null,
+    "websiteUrl": "https://www.thala.fi",
+    "panoraUI": false,
+    "panoraTags": ["LP"],
+    "panoraIndex": 200000,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
