@@ -41,7 +41,7 @@ Fork the [Aptos-Tokens](https://github.com/PanoraExchange/Aptos-Tokens) reposito
 
 ## 2. Add Token Icon
 
-Add the token_symbol.svg file for the token in the [logos](https://github.com/PanoraExchange/Aptos-Tokens/tree/main/logos) folder in your forked repository. Ensure it's ~100x100 pixels in .png format and has a unique symbol not used by any existing token. 
+Add the token_symbol.svg file for the token in the [logos](https://github.com/PanoraExchange/Aptos-Tokens/tree/main/logos) folder in your forked repository. Ensure it's .svg or ~100x100 pixels in .png format and has a unique symbol not used by any existing token.
 
 ## 3. Update `submit-token-request.ts`
 
