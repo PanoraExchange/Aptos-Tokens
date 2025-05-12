@@ -8,7 +8,7 @@ const requestList: SubmitTokenRequestInfo[] = [
         name: "Kofi Staked APT",
         symbol: "stkAPT",
         decimals: 8,
-        logoUrl: "stkAPT.png",
+        logoUrl: "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/stkAPT.png",
         websiteUrl: "https://app.kofi.finance",
         coinGeckoId: null,
         coinMarketCapId: null
@@ -20,7 +20,7 @@ const requestList: SubmitTokenRequestInfo[] = [
         name: "Kofi APT",
         symbol: "kAPT",
         decimals: 8,
-        logoUrl: "kAPT.png",
+        logoUrl: "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/kAPT.png",
         websiteUrl: "https://app.kofi.finance",
         coinGeckoId: null,
         coinMarketCapId: null
