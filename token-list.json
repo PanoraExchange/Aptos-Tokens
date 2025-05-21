@@ -188,6 +188,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866",
+    "name": "MESO",
+    "symbol": "MESO",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "MESO",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/MESO.png",
+    "websiteUrl": "https://meso.finance",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 52,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
     "faAddress": "0x79e8a5ddb82aa53854c1348c2865fd00732a41937dc1c160a4a50205537bd740",
     "name": "Tomarket",
@@ -199,7 +216,7 @@
     "websiteUrl": "https://tomarket.ai",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 51,
+    "panoraIndex": 54,
     "coinGeckoId": "tomarket",
     "coinMarketCapId": null
   },
@@ -216,7 +233,7 @@
     "websiteUrl": "https://amaterasu.gg",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 52,
+    "panoraIndex": 55,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
