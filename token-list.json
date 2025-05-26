@@ -392,6 +392,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xdd84125d1ebac8f1ecb2819801417fc392325e672be111ec03830c34d6ff82dd",
+    "name": "mirage dollar",
+    "symbol": "mUSD",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "mUSD",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/mUSD.svg",
+    "websiteUrl": "https://mirage.money",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 90,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD",
     "faAddress": "0x94ed76d3d66cb0b6e7a3ab81acf830e3a50b8ae3cfb9edc0abea635a11185ff4",
     "name": "Move Dollar",
@@ -403,7 +420,7 @@
     "websiteUrl": "https://thala.fi",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 90,
+    "panoraIndex": 91,
     "coinGeckoId": "move-dollar",
     "coinMarketCapId": null
   },
@@ -420,7 +437,7 @@
     "websiteUrl": null,
     "panoraUI": true,
     "panoraTags": ["Bridged", "Verified"],
-    "panoraIndex": 91,
+    "panoraIndex": 92,
     "coinGeckoId": "layerzero-bridged-usdc-aptos",
     "coinMarketCapId": null
   },
