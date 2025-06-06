@@ -3211,5 +3211,39 @@
     "panoraIndex": 200000,
     "coinGeckoId": null,
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x50038be55be5b964cfa32cf128b5cf05f123959f286b4cc02b86cafd48945f89",
+    "name": "BlackRock BUIDL",
+    "symbol": "BUIDL",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "BUIDL",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/BUIDL.png",
+    "websiteUrl": "https://securitize.io/blackrock/BUIDL",
+    "panoraUI": false,
+    "panoraTags": ["RWA"],
+    "panoraIndex": 1000002,
+    "coinGeckoId": "blackrock-usd-institutional-digital-liquidity-fund",
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xe528f4df568eb9fff6398adc514bc9585fab397f478972bcbebf1e75dee40a88",
+    "name": "Apollo Diversified Credit Fund",
+    "symbol": "ACRED",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "ACRED",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/ACRED.png",
+    "websiteUrl": "http://securitize.io/primary-market/apollo-diversified-credit-securitize-fund",
+    "panoraUI": false,
+    "panoraTags": ["RWA"],
+    "panoraIndex": 1000002,
+    "coinGeckoId": "apollo-diversified-credit-securitize-fund",
+    "coinMarketCapId": null
   }
 ]
