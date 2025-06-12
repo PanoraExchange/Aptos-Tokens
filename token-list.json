@@ -200,7 +200,7 @@
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 52,
-    "coinGeckoId": null,
+    "coinGeckoId": "meso-finance",
     "coinMarketCapId": null
   },
   {
@@ -370,7 +370,7 @@
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 87,
-    "coinGeckoId": null,
+    "coinGeckoId": "kofi-aptos",
     "coinMarketCapId": null
   },
   {
@@ -556,7 +556,7 @@
     "websiteUrl": "https://www.rewardywallet.com",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 99,
+    "panoraIndex": 200000,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
