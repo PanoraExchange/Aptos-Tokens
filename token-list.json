@@ -53,6 +53,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "WBTC",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/WBTC.svg",
+    "websiteUrl": null,
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 7,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387",
     "name": "OKX Wrapped BTC",
     "symbol": "xBTC",
@@ -387,7 +404,7 @@
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 88,
-    "coinGeckoId": null,
+    "coinGeckoId": "staked-kofi-aptos",
     "coinMarketCapId": null
   },
   {
