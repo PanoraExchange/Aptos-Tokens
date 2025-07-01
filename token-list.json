@@ -597,6 +597,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
+    "name": "Echo",
+    "symbol": "ECHO",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "ECHO",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/ECHO.svg",
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 30001,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
     "name": "TEVI Coin",
     "symbol": "TEVI",
