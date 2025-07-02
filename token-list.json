@@ -86,6 +86,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
+    "name": "Echo",
+    "symbol": "ECHO",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "ECHO",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/ECHO.svg",
+    "websiteUrl": "https://www.echo-protocol.xyz",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 10,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::mkl_token::MKL",
     "faAddress": "0x878370592f9129e14b76558689a4b570ad22678111df775befbfcbc9fb3d90ab",
     "name": "Merkle",
