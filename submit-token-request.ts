@@ -12,7 +12,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     logoUrl:
       "https://khnk24lv2ydj52ib5vomdmtlxhxxmvvyztzaa2jnrsgzk4ff4yfq.arweave.net/UdqtcXXWBp7pAe1cwbJrue92VrjM8gBpLYyNlXCl5gs",
     websiteUrl: "https://hyperion.xyz/",
-    coinGeckoId: null,
-    coinMarketCapId: null,
+    coinGeckoId: "hyperion",
+    coinMarketCapId: 37344,
   },
 ]
