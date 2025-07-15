@@ -87,6 +87,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d",
+    "name": "Hyperion",
+    "symbol": "RION",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "RION",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/RION.svg",
+    "websiteUrl": "https://hyperion.xyz",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 10,
+    "coinGeckoId": "hyperion",
+    "coinMarketCapId": 37344
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
     "name": "Echo",
     "symbol": "ECHO",
@@ -97,7 +114,7 @@
     "websiteUrl": "https://www.echo-protocol.xyz",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 10,
+    "panoraIndex": 13,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
