@@ -53,7 +53,7 @@
   {
     "chainId": 1,
     "tokenAddress": null,
-    "faAddress": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+    "faAddress": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
