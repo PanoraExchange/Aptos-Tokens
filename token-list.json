@@ -273,6 +273,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xeeb5ba9616292d315edc8ce36a25b921bab879b2a7088d479d12b0c182bd28c8",
+    "name": "Defi Cattos",
+    "symbol": "CATTOS",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "CATTOS",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/CATTOS.png",
+    "websiteUrl": "https://cattos.io",
+    "panoraUI": true,
+    "panoraTags":  ["Native", "Verified"],
+    "panoraIndex": 53,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
     "faAddress": "0x79e8a5ddb82aa53854c1348c2865fd00732a41937dc1c160a4a50205537bd740",
     "name": "Tomarket",
