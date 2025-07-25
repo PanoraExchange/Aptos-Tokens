@@ -3330,5 +3330,17 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6",
+    "name": "Klickl Token",
+    "symbol": "KLK",
+    "decimals": 8,
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/KLK.svg",
+    "websiteUrl": "https://www.klickl.vip",
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
