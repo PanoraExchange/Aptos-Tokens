@@ -154,6 +154,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6",
+    "name": "Klickl Token",
+    "symbol": "KLK",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "KLK",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/KLK.svg",
+    "websiteUrl": "https://www.klickl.vip",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 19,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
     "faAddress": "0x02370cc1d995f3aadd337c1c6c63834ad8d2bd0cdc70bc8dff81de463e18b159",
     "name": "Liquidswap",
