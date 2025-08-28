@@ -87,6 +87,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2",
+    "name": "Kana",
+    "symbol": "KANA",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "KANA",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/KANA.png",
+    "websiteUrl": "https://kanalabs.io",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 9,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d",
     "name": "Hyperion",
     "symbol": "RION",
