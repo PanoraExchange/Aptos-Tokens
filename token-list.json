@@ -3415,5 +3415,22 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+  },
+    {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc",
+    "name": "KGEN",
+    "symbol": "KGEN",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "KGEN",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/KGEN.png",
+    "websiteUrl": "https://kgen.io/",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 9,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
