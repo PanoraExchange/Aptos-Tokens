@@ -3425,7 +3425,7 @@
     "decimals": 8,
     "bridge": null,
     "panoraSymbol": "KGEN",
-    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/KGEN.png",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/KGEN.png",
     "websiteUrl": "https://kgen.io/",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
