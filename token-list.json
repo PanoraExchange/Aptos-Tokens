@@ -3449,5 +3449,22 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
-  }
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c::reserve_coin::RESERVE",
+    "faAddress": "0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b",
+    "name": "Reserve Token",
+    "symbol": "RESERVE",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "RESERVE",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/RESERVE.png",
+    "websiteUrl": "https://www.aptreserve.xyz/",
+    "panoraUI": false,
+    "panoraTags": ["Verified"],
+    "panoraIndex": 400,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
 ]
