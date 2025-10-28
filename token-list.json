@@ -6,7 +6,7 @@
     "name": "Aptos Coin",
     "symbol": "APT",
     "decimals": 8,
-    "bridge": null,
+    "bridge": ,
     "panoraSymbol": "APT",
     "logoUrl": "https://assets.panora.exchange/tokens/aptos/apt.svg",
     "websiteUrl": "https://aptosfoundation.org",
