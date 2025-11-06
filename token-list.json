@@ -3466,5 +3466,14 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+  },
+    {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a",
+    "name": "GMEOW",
+    "symbol": "GMEOW",
+    "decimals": 8,
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/GMEOW.png"
   }
 ]
