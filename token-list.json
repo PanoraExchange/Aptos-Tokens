@@ -760,6 +760,23 @@
     "websiteUrl": "https://web3.tevi.com",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 102,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a",
+    "name": "GMEOW",
+    "symbol": "GMEOW",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "GMEOW",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/GMEOW.png",
+    "websiteUrl": "https://gmeow.gg",
+    "panoraUI": true,
+    "panoraTags": ["Meme", "Verified"],
     "panoraIndex": 103,
     "coinGeckoId": null,
     "coinMarketCapId": null
