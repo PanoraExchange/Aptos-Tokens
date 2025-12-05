@@ -3483,5 +3483,22 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0xbec2a2f1fe06a539bfc54e5ea142a0eb5777968cd1c0864be2c5d1f885b1010a",
+    "name": "Whimsy",
+    "symbol": "WHIMSY",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "WHIMSY",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/WHIMSY.png",
+    "websiteUrl": null,
+    "panoraUI": true,
+    "panoraTags": ["Verified"],
+    "panoraIndex": 1,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
