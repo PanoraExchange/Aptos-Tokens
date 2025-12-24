@@ -1362,6 +1362,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x5b5c9ec5e88ddd6697b5b2f9f0a8e03eae1186c47fa4d934798632dc2987b249",
+    "name": "Goblin Staked APT token",
+    "symbol": "goAPT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "goAPT",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/goAPT.svg",
+    "websiteUrl": "https://goblin.fi",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 310,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6",
     "name": "Klickl Token",
     "symbol": "KLK",
