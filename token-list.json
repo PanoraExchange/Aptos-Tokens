@@ -81,8 +81,8 @@
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 7,
-    "coinGeckoId": null,
-    "coinMarketCapId": null
+    "coinGeckoId": "wrapped-bitcoin",
+    "coinMarketCapId": 3717
   },
   {
     "chainId": 1,
@@ -507,6 +507,23 @@
     "panoraTags": ["Native", "Verified"],
     "panoraIndex": 85,
     "coinGeckoId": "staked-thala-apt",
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x5b5c9ec5e88ddd6697b5b2f9f0a8e03eae1186c47fa4d934798632dc2987b249",
+    "name": "Goblin Staked APT token",
+    "symbol": "goAPT",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "goAPT",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/goAPT.svg",
+    "websiteUrl": "https://goblin.fi",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 86,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   },
   {
