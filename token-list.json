@@ -3500,5 +3500,22 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
-  }
+  },
+  {
+   "chainId": 1,
+   "tokenAddress": "0x5c3e6b4213cdd07ecdbb972cc9abdef3aa85d2ba797a1a1f1d4bb4652676d4c3",
+   "faAddress": null,
+   "name": "PakaCoin",
+   "symbol": "PAK92",
+   "decimals": 8,
+   "bridge": null,
+   "panoraSymbol": "PAK92",
+   "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/PAK92.png",
+   "websiteUrl": "https://pak92.top",
+   "panoraUI": false,
+   "panoraTags": [],
+   "panoraIndex": 0,
+   "coinGeckoId": null,
+   "coinMarketCapId": null
+ }
 ]
