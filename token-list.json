@@ -3515,5 +3515,22 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": "0x51964f09020498a1421a2a3bafe8e1d9fa72574b60446486c599bc6f3e9fae29::echelon_coin::ELON",
+    "faAddress": "0xfc087a394c203d62c43eecfeba79db01441d39dd9d234131b78415626a26750e",
+    "name": "Echelon Token",
+    "symbol": "ELON",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "ELON",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/ELON.svg",
+    "websiteUrl": "https://echelon.market/",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 1000003,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
   }
 ]
