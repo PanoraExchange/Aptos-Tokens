@@ -239,6 +239,22 @@
   },
   {
     "chainId": 1,
+    "faAddress": "0x7e464f3d2c1aed51cdcbdc653cc5c21526fe424bed2944bdd21dabb389dd7921",
+    "name": "Tapp Exchange",
+    "symbol": "TAPP",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "TAPP",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/TAPP.svg",
+    "websiteUrl": "https://tapp.exchange",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 44,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": null,
     "faAddress": "0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12",
     "name": "Cellana",
