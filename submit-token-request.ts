@@ -9,5 +9,6 @@ const requestList: SubmitTokenRequestInfo[] = [
     decimals: 8,
     logoUrl: "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/GOAT.svg",
     websiteUrl: "https://goatcoin.meme",
+    coinGeckoId: "wild-goat-coin-2-2",
   },
 ]
