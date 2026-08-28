@@ -8,7 +8,7 @@ const requestList: SubmitTokenRequestInfo[] = [
     "name": "MBSToken II",
     "symbol": "MSBII",
     "decimals": 8,
-    "logoUrl": "https://github.com/Vertalo/Aptos-Tokens/blob/main/logos/VSP.svg",
+    "logoUrl": "https://raw.githubusercontent.com/Vertalo/Aptos-Tokens/main/logos/VSP.svg",
     "websiteUrl": "https://vertalo.com",
     "coinGeckoId": "",
     "coinMarketCapId": 0,
