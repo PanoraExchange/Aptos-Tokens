@@ -70,6 +70,23 @@
   {
     "chainId": 1,
     "tokenAddress": null,
+    "faAddress": "0x0b0b819dcf8d9517ed14195a95adfae6a49bfdb49de33a532ca0aa7ee588e8e0",
+    "name": "Near WBTC",
+    "symbol": "NBTC",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "NBTC",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/BTC.png",
+    "websiteUrl": "https://near.com",
+    "panoraUI": true,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 7,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
     "faAddress": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
@@ -80,7 +97,7 @@
     "websiteUrl": null,
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 7,
+    "panoraIndex": 8,
     "coinGeckoId": "wrapped-bitcoin",
     "coinMarketCapId": 3717
   },
@@ -97,7 +114,7 @@
     "websiteUrl": "https://www.okx.com/xbtc",
     "panoraUI": true,
     "panoraTags": ["Native", "Verified"],
-    "panoraIndex": 8,
+    "panoraIndex": 9,
     "coinGeckoId": null,
     "coinMarketCapId": null
   },
@@ -3196,6 +3213,23 @@
   },
   {
     "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x96401f1e3ab3245d056d5a1ba67eef066ac3edc4d5f1b16adc5d567e79a845b0",
+    "name": "Decibel Dollar",
+    "symbol": "usDCBL",
+    "decimals": 6,
+    "bridge": null,
+    "panoraSymbol": "usDCBL",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/usDCBL.png",
+    "websiteUrl": "https://decibel.trade",
+    "panoraUI": false,
+    "panoraTags": ["Native", "Verified"],
+    "panoraIndex": 200000,
+    "coinGeckoId": null,
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
     "tokenAddress": "0x48327a479bf5c5d2e36d5e9846362cff2d99e0e27ff92859fc247893fded3fbd::APTOS::APTOS",
     "faAddress": "0x4f71c315b7de31c4df51e5379ec9a155a9e2eda541b8dcf57e7a9c558195d303",
     "name": "üí∏ aptclaim.net",
@@ -3566,6 +3600,23 @@
     "panoraTags": ["RWA"],
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
+    "coinMarketCapId": null
+  },
+  {
+    "chainId": 1,
+    "tokenAddress": null,
+    "faAddress": "0x689e9f3a2aae32d954049285c5f2d9279b35272311043861ae35a03f7a01f9c7",
+    "name": "MBSToken II",
+    "symbol": "MBSII",
+    "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "MBSII",
+    "logoUrl": "https://assets.panora.exchange/tokens/aptos/MBSII.svg",
+    "websiteUrl": "https://vertalo.com",
+    "panoraUI": false,
+    "panoraTags": ["RWA"],
+    "panoraIndex": 1000002,
+    "coinGeckoId": null,
     "coinMarketCapId": null
   }
 ]
